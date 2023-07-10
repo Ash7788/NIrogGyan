@@ -1,0 +1,32 @@
+.aboutSection {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  
+  .tableContainer {
+    margin-top: 8px;
+  }
+  
+  .progressBar {
+    height: 10px;
+    border-radius: 5px;
+    margin: 4px;
+  }
+  
+  .low {
+    background-color: #FFC107;
+  }
+  
+  .normal {
+    background-color: #4CAF50;
+  }
+  
+  .high {
+    background-color: #F44336;
+  }
+  
+  .riskFactors {
+    margin-top: 16px;
+    margin-bottom: 16px;
+  }
+  

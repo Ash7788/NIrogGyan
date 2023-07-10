@@ -1,0 +1,35 @@
+/* HomePage.css */
+
+.root {
+    margin-top: 1.5rem;
+  }
+  
+  .title {
+    flex-grow: 1;
+    text-align: left;
+  }
+  
+  .container {
+    margin-bottom: 1.5rem;
+  }
+  
+  .heading {
+    margin-bottom: 1rem;
+  }
+  
+  .tableContainer {
+    height: auto;
+  }
+  
+  .addButton {
+    margin-left: 1rem;
+  }
+  
+  .dialogContent {
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+  }
+  
